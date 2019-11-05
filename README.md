@@ -1,1 +1,1 @@
-# python_projects
+# Profitable App Profiles for the App Store and Google Play Markets
